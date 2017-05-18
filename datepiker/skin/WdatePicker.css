@@ -1,0 +1,6 @@
+.Wdate{ height:32px; line-height:32px; border:1px solid #dfdfdf; border-radius:3px; background:url(datePicker.png) #f8f8f8 no-repeat right center; text-indent:10px;}
+.unavailable .Wdate{ background:url(datePickerGray.png) #f8f8f8 no-repeat 140px center;}
+.WdateFmtErr{
+	font-weight:bold;
+	color:red;
+}
